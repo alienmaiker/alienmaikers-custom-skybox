@@ -8,3 +8,8 @@
 2. extract `GameData` and put it into your ksp folder
 
 3. the mod's new path should be like `Kerbal Space Program/GameData/alienmaikersblueskybox`
+
+_you may notice that the color depth of the textures is too shallow (the colors don't blend very well)_
+_i can't fix it_
+
+_this mod was reverse-engineered from 'pood's calm nebula' skybox_
